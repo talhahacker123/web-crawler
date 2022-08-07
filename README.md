@@ -21,7 +21,7 @@ Firstly, Install gems by running below commands:
   sudo gem install optimist -v 3.0.1 
 ```
 ```
-  udo gem install mechanize -v 2.7.7
+  sudo gem install mechanize -v 2.7.7
 ```
  Now, git clone the project (WeB Crawler):
 
